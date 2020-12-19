@@ -19,9 +19,9 @@ For this project, I've re-created the simple portfolio done for the [Basic Portf
 * portfolio page - `.thumbnail`, `.img-responsive`
 
 ## Screenshots
-Large Screenshot
+<p> Large Screenshot </p>
 <img alt="large view" src="large.png" />
-Medium Screenshot
+<p> Medium Screenshot </p>
 <img alt="medium view" src="med.png" width="768px" /> 
-Small Screenshot
+<p> Small Screenshot </p>
 <img alt="small view" src="small.png" width="400px" />
