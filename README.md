@@ -19,6 +19,6 @@ For this project, I've re-created the simple portfolio done for the [Basic Portf
 * portfolio page - `.thumbnail`, `.img-responsive`
 
 ## Screenshots
-<img alt="large view" src="assets/images/large.png" />
-<img alt="medium view" src="assets/images/med.png" width="768px" /> 
-<img alt="small view" src="assets/images/small.png" width="400px" />
+<img alt="large view" src="large.png" />
+<img alt="medium view" src="med.png" width="768px" /> 
+<img alt="small view" src="small.png" width="400px" />
