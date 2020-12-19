@@ -255,7 +255,7 @@ body {
     background: black;
     border: 0 none;
   }
-  /* Media queries not used for this project
+
   @media (max-width: 980px) {
     #container {
       width: 100%;
@@ -302,4 +302,4 @@ body {
       width: 100%;
     }
   }
-  */
+  

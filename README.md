@@ -5,7 +5,7 @@
 ## Overview
 For this project, I've re-created the simple portfolio done for the [Basic Portfolio](https://github.com/tonyrpark/02-bootstrap-css-tonypark) assignment using the Boostrap CSS framework
 
-[Click here](https://github.com/tonyrpark/02-bootstrap-css-tonypark) to launch this project in GitHub Pages
+[Click here](https://tonyrpark.github.io/02-bootstrap-css-tonypark/) to launch this project in GitHub Pages
 
 ## Built with
 * HTML

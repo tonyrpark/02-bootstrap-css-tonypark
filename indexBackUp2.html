@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <meta charset="UTF-8">
+  <!--w3schools notes that the meta viewport element should be in all pages as it gives the browser instructions on how to control the page's dimensions and scaling-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About | Tony Park</title>
+  
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+
+  <link rel="stylesheet" type="text/css" href="assets/CSS/reset.css">
+  
+  <link rel="stylesheet" type="text/css" href="assets/CSS/style.css">
+  
+</head>
+
+<body>
+
+  <!--Using id as masthead for future top section of website; header tag used as semantic element-->
+  <header id="masthead">
+    <!--Created container class to be able to manipulate area with CSS-->
+    <div class="container">
+      <a href="index.html" id="logo">Tony Park</a>
+      <nav>
+        <a href="index.html">About</a>
+        <a href="portfolio.html">Portfolio</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <!--created a separate id tag of 'main-container' for the below portion of the website-->
+  <div id="main-container" class="container">
+    <section class="main-section">
+      <h1>About Me</h1>
+
+      <div class="row justify-content-center my-row">
+
+        <div class="col-xs-4 col-sm-4 col-md-3 col-lg-2 my-col">
+          <img src="assets/images/tonyAndJess.jpg" class="auth-image" alt="Tony and his Wife">
+        </div>
+
+        <div class="col-xs-8 col-sm-8 col-md-9 col-lg-10 my-col">
+          <p>
+            Tony is the Senior Development Operations and Schema Engineer for Expeditionary Technical Solutions, Inc; a
+            small tech company in Oceanside, CA. Prior to his current career, he spent the last seven years as an
+            Officer in
+            the United States Marine
+            Corps where he deployed to Iraq in support of Operation Inherent Resolve. He is now happily settled in
+            Temecula,
+            CA with his wife, Jessica, and three dogs: Cloud, Cisco, and Nala.
+          </p>
+
+          <p>
+            Tony is a big fan of cars and loves spending his free time working on his Toyota 86 and Toyota Tacoma. He is
+            also a big fan of sports and loves the Los Angeles Dodgers, Lakers, and Rams.
+          </p>
+
+          <p>
+            He is a Certified Information Systems Security Professional (CISSP) and holds his Bachelor's Degree from the
+            University of California, San Diego. He is currently working on his Master's of Cybersecurity Engineering at
+            the
+            University of San Diego. In December 2020, he began the full-stack web development bootcamp at UC San Diego
+            extension. His dream is to one day start his own tech company in the Inland Empire.
+          </p>
+        </div>
+      </div>
+
+      <!--Extra row and col in case I want to expand later
+      <div class = "row"> 
+        <div class ="col">
+          <div class ="col-xs-12 col-sm-6 col-md-8 my-col"> 
+          </p>
+        </div>
+        </div>
+      </div>
+      -->
+
+
+    </section>
+
+    <div class="clearfix visible-xs-block"></div>
+    <div class="col-xs-12 col-sm-12 col-md-4">
+      <!--sidebar element for social media links-->
+      <section class="sidebar">
+        <div id="connect">
+          <h2>Connect with Me</h2>
+
+          <!--Tony's Github Link-->
+          <a target="_blank" href="https://github.com/tonyrpark"><img src="assets/images/githubSquare.png"
+              class="social" alt="GitHub Icon" /></a>
+          <!--Tony's LinkedIn Page-->
+          <a target="_blank" href="https://www.linkedin.com/in/tony-park-8845935a/"><img
+              src="assets/images/linkedIn.png" class="social" alt="LinkedIn Icon" /></a>
+          <!--Tony's Stackoverflow page-->
+          <a target="_blank" href="https://stackoverflow.com/users/14846612/tony-park"><img
+              src="assets/images/stackoverflow.png" class="socialstack" alt="StackOverflow Icon" /></a>
+        </div>
+      </section>
+    </div>
+
+  </div>
+
+  <!--Footer tag to incorporate copyright-->
+  <footer>
+    <div class="container">
+      Copyright &copy; 2020 Tony Park
+  </footer>
+
+</body>
+
+</html>
