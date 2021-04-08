@@ -1,0 +1,24 @@
+{
+  "name": "02-bootstrap-css-tonypark",
+  "version": "1.0.0",
+  "description": "For this project, I've re-created the simple portfolio done for the [Basic Portfolio](https://github.com/tonyrpark/02-bootstrap-css-tonypark) assignment using the Boostrap CSS framework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonyrpark/02-bootstrap-css-tonypark.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonyrpark/02-bootstrap-css-tonypark/issues"
+  },
+  "homepage": "https://github.com/tonyrpark/02-bootstrap-css-tonypark#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
