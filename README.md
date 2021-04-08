@@ -1,10 +1,8 @@
-# 02-bootstrap-css-tonypark
+# Bootstrap-Portfolio
 
 - This repository encompasses the homework requirements from Week 2, Week 7, and Week 17
 
-Heroku Deployment Link: https://boiling-woodland-77101.herokuapp.com/
-
-# Bootstrap-Portfolio
+- Heroku Deployment Link: https://boiling-woodland-77101.herokuapp.com/
 
 ## Overview
 
@@ -13,6 +11,7 @@ DEC2020: For this project, I've re-created the simple portfolio done for the [Ba
 APR2021: Added Resume to homepage, fixed links, fixed images, added new portfolio objects
 
 [Updated Page](https://boiling-woodland-77101.herokuapp.com/) to launch Heroku edition
+
 [Old Page](https://tonyrpark.github.io/02-bootstrap-css-tonypark/) to launch the old version
 
 ## Built with
